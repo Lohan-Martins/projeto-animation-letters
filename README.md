@@ -1,6 +1,6 @@
 # Animação em letras
 
-- Projeto feito para aprendizagem.
+- Projeto feito com o objetivo de aprendizagem.
 
 **Descrição:**  Animação em letras da frase "Happy new year"
 
